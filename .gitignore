@@ -1,0 +1,5 @@
+/filtered
+/raw
+/training
+brackets_detector.pth
+siamese_weights.pth
