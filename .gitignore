@@ -1,5 +1,5 @@
-/filtered
-/raw
-/training
+/data
+/.venv
+.env
 brackets_detector.pth
 siamese_weights.pth

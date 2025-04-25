@@ -1,0 +1,4 @@
+pydicom
+torch
+torchvision
+numpy
